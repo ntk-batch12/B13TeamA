@@ -46,3 +46,20 @@ System.out.println(a+b);
 	public void greating() {
 		System.out.println("hello teamA");
 	}
+	
+	public String comboString(String a, String b) {
+		  String result = "";
+		  
+		  int lengtha = a.length();
+		  int lengthb = b.length();
+		  
+		  if(lengtha < lengthb){
+		    result = a + b + a;
+		  } else{
+		    result = b + a + b;
+		  }
+		  
+		  return result;
+		}
+	
+
