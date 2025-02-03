@@ -62,4 +62,17 @@ System.out.println(a+b);
 		  return result;
 		}
 	
+	// New Method - Sam
+	public boolean sleepIn(boolean weekday, boolean vacation) {
+		  
+		  boolean result = false;
+		  
+		  if (!weekday || vacation == true) {
+		    result = true;
+		  } 
+		    return result;
+
+		}
+	}
+}
 
