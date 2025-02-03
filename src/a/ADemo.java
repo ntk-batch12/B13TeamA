@@ -6,6 +6,11 @@ public class ADemo {
 		System.out.println("ADemo: TeamA");
 		
 		System.out.println("cool kids club");
+		
+		for (int i = 0; i >= 20; i++) {
+			
+			System.out.println(i);
+		}
 	}
 	if (goal.isChallenging()) {
 	    System.out.println("Keep pushing, you're doing great!");
