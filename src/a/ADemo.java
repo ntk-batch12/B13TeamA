@@ -42,4 +42,7 @@ System.out.println(a+b);
 		int result = 0;
 		result = a + b;
 		return result;
-}}
+}
+	public void greating() {
+		System.out.println("hello teamA");
+	}
