@@ -39,5 +39,7 @@ System.out.println(a+b);
 		
 	}
 	public static int add(int a, int b) {
-		System.out.println(a+b);
-}
+		int result = 0;
+		result = a + b;
+		return result;
+}}
