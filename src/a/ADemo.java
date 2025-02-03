@@ -84,17 +84,5 @@ System.out.println(a+b);
 		}
 		return sum;
 	}
-	  public static int addNumbers(int a, int b) {
-	        int sum = a + b;   
-	        return sum;        
-	    }
-
-	    public static void main1(String[] args) {
-	        int num1 = 10;
-	        int num2 = 20;
-	        int result = addNumbers(num1, num2);
-	        System.out.println("The sum is: " + result);
-	        // new code added by abdullah
-	    }
-	}
+		
 	}
