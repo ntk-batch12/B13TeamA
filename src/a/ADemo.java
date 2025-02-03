@@ -32,21 +32,15 @@ System.out.println(a+b);
 		System.out.println(y);
 		
 	}
-	}
 	
-	for(int y = 0; y >= 25; y++) {
-		System.out.println(y);
-		
-	}
+	
 	public static int add(int a, int b) {
 		int result = 0;
 		result = a + b;
 		return result;
 }
-	public void greating() {
-		System.out.println("hello teamA");
-	}
-	
+	public void greeting() {
+		System.out.println("Hello teamA");
 	public String comboString(String a, String b) {
 		  String result = "";
 		  
@@ -76,3 +70,7 @@ System.out.println(a+b);
 	}
 }
 
+}
+	public void greating() {
+		System.out.println("hello teamA");
+	}
