@@ -10,6 +10,15 @@ public class ADemo {
 	if (goal.isChallenging()) {
 	    System.out.println("Keep pushing, you're doing great!");
 	    goal.moveForward();
-	}
-	}
+	
+	
+int a=5;
+int b= 10;
+
+System.out.println(a+b);
+}
+
+}
+	
+
 }
