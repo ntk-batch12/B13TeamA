@@ -74,3 +74,15 @@ System.out.println(a+b);
 	public void greating() {
 		System.out.println("hello teamA");
 	}
+	//new method by Farah
+	
+	public int sumDouble(int a, int b) {
+		int sum = a + b;
+		
+		if (a == b) {
+			sum = sum * 2;
+		}
+		return sum;
+	}
+		
+	}
