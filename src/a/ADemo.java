@@ -25,17 +25,64 @@ System.out.println(a+b);
 
 }
 	
+//
+	}
+	
+	for(int y = 0; y >= 25; y++) {
+		System.out.println(y);
+		
+	}
+	
+	
+	public static int add(int a, int b) {
+		int result = 0;
+		result = a + b;
+		return result;
+}
+	public void greeting() {
+		System.out.println("Hello teamA");
+	public String comboString(String a, String b) {
+		  String result = "";
+		  
+		  int lengtha = a.length();
+		  int lengthb = b.length();
+		  
+		  if(lengtha < lengthb){
+		    result = a + b + a;
+		  } else{
+		    result = b + a + b;
+		  }
+		  
+		  return result;
+		}
+	
+	// New Method - Sam
+	public boolean sleepIn(boolean weekday, boolean vacation) {
+		  
+		  boolean result = false;
+		  
+		  if (!weekday || vacation == true) {
+		    result = true;
+		  } 
+		    return result;
 
-	}
-	
-	for(int y = 0; y >= 25; y++) {
-		System.out.println(y);
-		
-	}
-	}
-	
-	for(int y = 0; y >= 25; y++) {
-		System.out.println(y);
-		
+		}
 	}
 }
+
+}
+	public void greating() {
+		System.out.println("hello teamA");
+	}
+	//new method by Farah
+	
+	public int sumDouble(int a, int b) {
+		int sum = a + b;
+		
+		if (a == b) {
+			sum = sum * 2;
+		}
+		return sum;
+	}
+		
+	}
