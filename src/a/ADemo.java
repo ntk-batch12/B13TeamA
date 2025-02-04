@@ -38,4 +38,6 @@ System.out.println(a+b);
 		System.out.println(y);
 		
 	}
+	public void setMode() {
+		System.out.println("Happy!");
 }
