@@ -11,11 +11,21 @@ public class ADemo {
 			
 			System.out.println(i);
 		}
-	}
-	if (goal.isChallenging()) {
+		
+		//calling setGoal method
+		ADemo demo = new ADemo();
+		demo.setGoal();
+		
+		ADemo demo1= new ADemo();
+		demo1.setMode();
+	
+		
+	boolean goalIsChallenging = true;
+	if (goalIsChallenging) {
 	    System.out.println("Keep pushing, you're doing great!");
 	    goal.moveForward();
 	
+	}
 	
 int a=5;
 int b= 10;
