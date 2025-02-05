@@ -16,22 +16,21 @@ public class ADemo {
 		ADemo demo = new ADemo();
 		demo.setGoal();
 		
-		ADemo demo1= new ADemo();
-		demo1.setMode();
 	
 		
 	boolean goalIsChallenging = true;
 	if (goalIsChallenging) {
 	    System.out.println("Keep pushing, you're doing great!");
-	    goal.moveForward();
-	
+	  
 	}
+	
 	
 int a=5;
 int b= 10;
 
-System.out.println(a+b);
-}
+System.out.println("The sum is: " + (a+b));
+
+
 
 }
 	
@@ -50,4 +49,11 @@ System.out.println(a+b);
 	}
 	public void setMode() {
 		System.out.println("Happy!");
+}
+	public void setGoal() {
+		System.out.println("Blast off to the moon!");
+	
+	
+	System.out.println("Good Morning teamA");
+	}
 }
