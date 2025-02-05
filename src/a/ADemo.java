@@ -88,8 +88,15 @@ public class ADemo {
 		}
 		return sum
 	}
+Abdullah
+	int a=5;
+	int b= 10;
+	System.out.println(a+b);
+}
+
 	
 	//git switch main
 	   // git merge new-joke
 		
 	}
+

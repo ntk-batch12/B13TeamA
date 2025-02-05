@@ -4,6 +4,14 @@ public class BDemo {
 	
 	public static void main(String[] args) {
 		System.out.println("BDemo: TeamA");
+	} 
+	String Name = "Abdullah";
+	String job = "QA Eng.";
+	
+	public void setJob() {
+	System.out.println(Name + "is a " + job);
+	
+
 		
 		// Variables
 		int a = 20;
@@ -18,5 +26,6 @@ public class BDemo {
 	System.out.println("The som of " + a + "and " + b + " is: " + sum);
     
 // new code was not good @ Team
+
 
 }
