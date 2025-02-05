@@ -70,6 +70,8 @@ public class ADemo {
 
 		}
 	}
+	public void setMode() {
+		System.out.println("Happy!");
 }
 
 }
