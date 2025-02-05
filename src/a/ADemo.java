@@ -64,7 +64,11 @@ public class ADemo {
 		}
 		return result;
 
-	}
+
+	public void setMode() {
+		System.out.println("Happy!");
+
+}
 
 	public void greating() {
 		System.out.println("hello teamA");
@@ -78,6 +82,7 @@ public class ADemo {
 			sum = sum * 2;
 		}
 		return sum;
+
 	}
 
 	//new method by sally
@@ -89,3 +94,10 @@ public class ADemo {
 	}
 
 }
+
+
+	}
+}
+
+
+
