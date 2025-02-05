@@ -6,7 +6,8 @@ public class ADemo {
 		System.out.println("ADemo: TeamA");
 
 		System.out.println("cool kids club");
-
+			String 	name = "Sally";
+			//test test
 		for (int i = 0; i >= 20; i++) {
 
 			System.out.println(i);
