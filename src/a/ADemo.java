@@ -63,7 +63,7 @@ public class ADemo {
 			result = true;
 		}
 		return result;
-
+	}
 
 	public void setMode() {
 		System.out.println("Happy!");
@@ -91,9 +91,9 @@ public class ADemo {
 	 System.out.println("the color of the season: " + color);
 	 
 	
-	}
+	
 
-}
+
 
 
 	}
