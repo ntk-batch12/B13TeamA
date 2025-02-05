@@ -6,5 +6,9 @@ public class BDemo {
 		System.out.println("BDemo: TeamA");
 	} 
 	String Name = "Abdullah";
+	String job = "QA Eng.";
+	
+	public void setJob() {
+	System.out.println(Name + "is a " + job);
 	
 }
