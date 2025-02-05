@@ -11,6 +11,19 @@ public class ADemo {
 			
 			System.out.println(i);
 		}
+		
+		// Beginning of Code <--> Added by Sam 
+		System.out.println("***** NESTED LOOP ******");
+		for (int i = 1; i <= 5; i++) {
+			for (int j = 1; j <= 5; j++) {
+				System.out.println("("+ i + " , " + j + ")");
+			}
+		}
+		// End of Nested Loop <--> Added by Sam  
+		
+		
+		
+		
 	}
 	if (goal.isChallenging()) {
 	    System.out.println("Keep pushing, you're doing great!");
