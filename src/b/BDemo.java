@@ -4,7 +4,16 @@ public class BDemo {
 	
 	public static void main(String[] args) {
 		System.out.println("BDemo: TeamA");
+	} 
+	String Name = "Abdullah";
+	String job = "QA Eng.";
+	
+	public void setJob() {
+	System.out.println(Name + "is a " + job);
+	
+
 		
+
 		// Variable
 		int a = 5;
 
@@ -48,6 +57,14 @@ public class BDemo {
 		}
 		System.out.println("*** END OF Switch Statement: Days of the Week");
 		// Code Ended Here -> SAM.
+
 	}
+	int a = 5;
+	int b= 10;
+	int sum = a + b;
+	System.out.println("The som of " + a + "and " + b + " is: " + sum);
+    
+// new code was not good @ Team
+
 
 }
