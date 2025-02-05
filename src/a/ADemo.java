@@ -65,6 +65,7 @@ public class ADemo {
 		return result;
 	}
 
+
 	public void setMode() {
 		System.out.println("Happy!");
 
@@ -92,7 +93,6 @@ public class ADemo {
 	 
 	
 	
-
 
 
 
