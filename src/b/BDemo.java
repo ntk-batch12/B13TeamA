@@ -5,5 +5,8 @@ public class BDemo {
 	public static void main(String[] args) {
 		System.out.println("BDemo: TeamA");
 	}
+public void setCountry() {
+	System.out.println("USA");
+}
 
 }
