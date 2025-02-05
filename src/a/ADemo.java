@@ -6,7 +6,9 @@ public class ADemo {
 		System.out.println("ADemo: TeamA");
 
 		System.out.println("cool kids club");
-
+		String name = "Sally";
+		System.out.println(name);
+		// test test
 		for (int i = 0; i >= 20; i++) {
 
 			System.out.println(i);
@@ -24,6 +26,7 @@ public class ADemo {
 			System.out.println(y);
 
 		}
+
 	}
 
 	public static int add(int a, int b) {
@@ -61,16 +64,15 @@ public class ADemo {
 		}
 		return result;
 
-	}
 
 	public void setMode() {
 		System.out.println("Happy!");
-	}
+
+}
 
 	public void greating() {
 		System.out.println("hello teamA");
 	}
-
 	// new method by Farah
 
 	public int sumDouble(int a, int b) {
@@ -82,6 +84,20 @@ public class ADemo {
 		return sum;
 
 	}
+
+	//new method by sally
+	public static void getColor(String color) {
+		
+	 System.out.println("the color of the season: " + color);
+	 
+	
+	}
+
 }
+
+
+	}
+}
+
 
 
