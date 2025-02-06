@@ -36,6 +36,24 @@ public class ADemo {
 				System.out.println("("+ i + " , " + j + ")");
 			}
 		}
+		
+		//calling setGoal method
+		ADemo demo = new ADemo();
+		demo.setGoal();
+		
+	
+		
+	boolean goalIsChallenging = true;
+	if (goalIsChallenging) {
+	    System.out.println("Keep pushing, you're doing great!");
+	  
+	}
+	
+	
+int a=5;
+int b= 10;
+
+System.out.println("The sum is: " + (a+b));
 
 	}
 	if (goal.isChallenging()) {
@@ -64,7 +82,18 @@ public class ADemo {
 			System.out.println(y);
 
 		}
+		int a = 5;
+		int b = 10;
 
+		if (a != b) {
+
+			System.out.println("Keep pushing, you're doing great!");
+		}
+
+		for (int y = 0; y >= 25; y++) {
+			System.out.println(y);
+
+		}
 	}
 
 	public static int add(int a, int b) {
@@ -108,6 +137,15 @@ public class ADemo {
 		System.out.println("Happy!");
 
 }
+	public void setGoal() {
+		System.out.println("Blast off to the moon!");
+	
+	
+	System.out.println("Good Morning teamA");
+	}
+}
+
+}
 
 	public void greating() {
 		System.out.println("hello teamA");
@@ -124,6 +162,8 @@ public class ADemo {
 
 	}
 	
+	System.out.println("Hi");
+	
 	//git switch main
 	   // git merge new-jok
 
@@ -135,6 +175,35 @@ public class ADemo {
 	public static void getColor(String color) {
 
 		
+
+	}
+	String home = "Iraq";
+	System.out.println(home);
+	
+
+	
+	
+
+
+}
+	public void greating() {
+		System.out.println("hello teamA");
+	}
+	//new method by Farah
+	
+	public int sumDouble(int a, int b) {
+		int sum = a + b;
+		
+		if (a == b) {
+			sum = sum * 2;
+		}
+		return sum
+	}
+	
+	//git switch main
+	   // git merge new-joke
+		
+	}
 
 	}
 }
@@ -153,6 +222,7 @@ public class ADemo {
 
 	}
 }
+
 
 
 

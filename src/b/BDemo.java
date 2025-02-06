@@ -4,8 +4,12 @@ public class BDemo {
 	
 	public static void main(String[] args) {
 		System.out.println("BDemo: TeamA");
+	BDemo demo = new BDemo();
+	demo.createTeam();
+	
 
 		//sally is testing
+
 
 		
 		int a = 5;
@@ -72,6 +76,16 @@ public class BDemo {
 		System.out.println("TeamA");
 
 	}
+	int a = 5;
+	int b= 10;
+	int sum = a + b;
+
+	System.out.println("The sum of " + a + "and " + b + " is: " + sum);
+
+	System.out.println("The som of " + a + "and " + b + " is: " + sum);
+    
+// new code was not good @ Team
+
     
 	
 
@@ -84,4 +98,11 @@ public void setCountry() {
 // new code was not good @ Team
 
 
+}
+	public void createTeam() {
+		System.out.println("TeamA");
+		
+		//This is a test from Farah 2/5/25
+	}
+	
 }
