@@ -1,16 +1,17 @@
 package a;
 
 public class ADemo {
-	
+
 	public static void main(String[] args) {
 		System.out.println("ADemo: TeamA");
-		
+
 		System.out.println("cool kids club");
-		
+
 		for (int i = 0; i >= 20; i++) {
-			
+
 			System.out.println(i);
 		}
+<<<<<<< HEAD
 <<<<<<< HEAD
 		
 		//calling setGoal method
@@ -30,11 +31,28 @@ int a=5;
 int b= 10;
 =======
 >>>>>>> branch 'farah' of https://github.com/ntk-batch12/B13TeamA.git
+=======
+>>>>>>> branch 'farah' of https://github.com/ntk-batch12/B13TeamA.git
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 System.out.println("The sum is: " + (a+b));
 
 
+=======
+		int a = 5;
+		int b = 10;
+
+		if (a != b) {
+
+			System.out.println("Keep pushing, you're doing great!");
+		}
+
+		for (int y = 0; y >= 25; y++) {
+			System.out.println(y);
+
+		}
+>>>>>>> branch 'farah' of https://github.com/ntk-batch12/B13TeamA.git
 =======
 		int a = 5;
 		int b = 10;
@@ -99,6 +117,7 @@ System.out.println("The sum is: " + (a+b));
 		System.out.println("Happy!");
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 	public void setGoal() {
 		System.out.println("Blast off to the moon!");
 	
@@ -129,6 +148,31 @@ System.out.println("The sum is: " + (a+b));
 	   // git merge new-joke
 		
 	}
+	String home = "Iraq";
+	System.out.println(home);
+	
 >>>>>>> branch 'farah' of https://github.com/ntk-batch12/B13TeamA.git
 	
 	
+=======
+
+}
+	public void greating() {
+		System.out.println("hello teamA");
+	}
+	//new method by Farah
+	
+	public int sumDouble(int a, int b) {
+		int sum = a + b;
+		
+		if (a == b) {
+			sum = sum * 2;
+		}
+		return sum
+	}
+	
+	//git switch main
+	   // git merge new-joke
+		
+	}
+>>>>>>> branch 'farah' of https://github.com/ntk-batch12/B13TeamA.git
