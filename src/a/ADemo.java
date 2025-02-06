@@ -3,7 +3,7 @@ package a;
 public class ADemo {
 
 	public static void main(String[] args) {
-
+		
 		System.out.println("Branch Dev:XYZ");
 
 	}
@@ -26,10 +26,7 @@ public class ADemo {
 		String name = "Sally";
 		System.out.println(name);
 		// test test
-		for (int i = 0; i >= 20; i++) {
-
-			System.out.println(i);
-		}
+		
 
 		
 		// Beginning of Code <--> Added by Sam 
@@ -44,14 +41,8 @@ public class ADemo {
 		
 		
 		
-	}
-	if (goal.isChallenging()) {
-	    System.out.println("Keep pushing, you're doing great!");
-	    goal.moveForward();
 	
 	
-int a=5;
-int b= 10;
 
 
 		int a = 5;
@@ -146,6 +137,3 @@ int b= 10;
 
 	}
 }
-
-
-
