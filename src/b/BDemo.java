@@ -65,6 +65,8 @@ public class BDemo {
 	System.out.println("The som of " + a + "and " + b + " is: " + sum);
     
 // new code was not good @ Team
-
+	
+	/
+  //  print("Hello, World Good morning!"- Abdullah
 
 }

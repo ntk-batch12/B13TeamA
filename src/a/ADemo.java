@@ -108,9 +108,17 @@ int b= 10;
 		return sum;
 
 	}
+	
+	//git switch main
+	   // git merge new-jok
+
+
+   // print("Hello, World!" -Abdullah
+	
 
 	//new method by sally
 	public static void getColor(String color) {
+
 		
 	 System.out.println("the color of the season: " + color);
 	 
