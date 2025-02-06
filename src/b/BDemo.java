@@ -59,6 +59,11 @@ public class BDemo {
 		// Code Ended Here -> SAM.
 
 	}
+
+public void setCountry() {
+	System.out.println("USA");
+}
+
 	int a = 5;
 	int b= 10;
 	int sum = a + b;
@@ -68,5 +73,6 @@ public class BDemo {
 	
 	/
   //  print("Hello, World Good morning!"- Abdullah
+
 
 }
