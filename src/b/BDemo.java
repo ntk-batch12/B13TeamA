@@ -4,11 +4,12 @@ public class BDemo {
 	
 	public static void main(String[] args) {
 		System.out.println("BDemo: TeamA");
+		
 		int a = 5;
 		int b= 10;
 		int sum = a + b;
 		System.out.println("The sum of " + a + "and " + b + " is: " + sum);
-	}
+	} 
 	String Name = "Abdullah";
 	String job = "QA Eng.";
 	
@@ -63,16 +64,20 @@ public class BDemo {
 		// Code Ended Here -> SAM.
 
 	}
+    
+	public static void createTeam() {
+		System.out.println("TeamA");
+	}
+    
+	
 
 public void setCountry() {
 	System.out.println("USA");
 }
-
+ 
 	
+    
 // new code was not good @ Team
-	
-	
-  //  print("Hello, World Good morning!"- Abdullah
 
-	
+
 }
