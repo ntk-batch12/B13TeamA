@@ -36,12 +36,19 @@ public class ADemo {
 				System.out.println("("+ i + " , " + j + ")");
 			}
 		}
+
+	}
+	if (goal.isChallenging()) {
+	    System.out.println("Keep pushing, you're doing great!");
+	    goal.moveForward();
+	//sally is writing
+
 		// End of Nested Loop <--> Added by Sam  
 		
 		
 		
 		
-	
+
 	
 
 
@@ -128,6 +135,15 @@ public class ADemo {
 	public static void getColor(String color) {
 
 		
+
+	}
+}
+//Mina comment
+}
+//Mina comment
+
+//mina is testing 
+
 	 System.out.println("the color of the season: " + color);
 	 
 	
