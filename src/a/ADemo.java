@@ -3,16 +3,72 @@ package a;
 public class ADemo {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Branch Dev:XYZ");
+
+	}
+
+	public void add() {
+		System.out.println(1 + 2);
+
+	}
+
+	public void divide() {
+		System.out.println(1 / 2);
+	}
+
+	public void getData() {
+		System.out.println("Test");
+
 		System.out.println("ADemo: TeamA");
 
 		System.out.println("cool kids club");
 		String name = "Sally";
 		System.out.println(name);
 		// test test
-		for (int i = 0; i >= 20; i++) {
+		
 
-			System.out.println(i);
+		
+		// Beginning of Code <--> Added by Sam 
+		System.out.println("***** NESTED LOOP ******");
+		for (int i = 1; i <= 5; i++) {
+			for (int j = 1; j <= 5; j++) {
+				System.out.println("("+ i + " , " + j + ")");
+			}
 		}
+		
+		//calling setGoal method
+		ADemo demo = new ADemo();
+		demo.setGoal();
+		
+	
+		
+	boolean goalIsChallenging = true;
+	if (goalIsChallenging) {
+	    System.out.println("Keep pushing, you're doing great!");
+	  
+	}
+	
+	
+int a=5;
+int b= 10;
+
+System.out.println("The sum is: " + (a+b));
+
+	}
+	if (goal.isChallenging()) {
+	    System.out.println("Keep pushing, you're doing great!");
+	    goal.moveForward();
+	//sally is writing
+
+		// End of Nested Loop <--> Added by Sam  
+		
+		
+		
+		
+
+	
+
 
 		int a = 5;
 		int b = 10;
@@ -26,7 +82,18 @@ public class ADemo {
 			System.out.println(y);
 
 		}
+		int a = 5;
+		int b = 10;
 
+		if (a != b) {
+
+			System.out.println("Keep pushing, you're doing great!");
+		}
+
+		for (int y = 0; y >= 25; y++) {
+			System.out.println(y);
+
+		}
 	}
 
 	public static int add(int a, int b) {
@@ -70,6 +137,15 @@ public class ADemo {
 		System.out.println("Happy!");
 
 }
+	public void setGoal() {
+		System.out.println("Blast off to the moon!");
+	
+	
+	System.out.println("Good Morning teamA");
+	}
+}
+
+}
 
 	public void greating() {
 		System.out.println("hello teamA");
@@ -85,10 +161,58 @@ public class ADemo {
 		return sum;
 
 	}
+	
+	System.out.println("Hi");
+	
+	//git switch main
+	   // git merge new-jok
+
+
+   // print("Hello, World!" -Abdullah
+	
 
 	//new method by sally
 	public static void getColor(String color) {
+
 		
+
+	}
+	String home = "Iraq";
+	System.out.println(home);
+	
+
+	
+	
+
+
+}
+	public void greating() {
+		System.out.println("hello teamA");
+	}
+	//new method by Farah
+	
+	public int sumDouble(int a, int b) {
+		int sum = a + b;
+		
+		if (a == b) {
+			sum = sum * 2;
+		}
+		return sum
+	}
+	
+	//git switch main
+	   // git merge new-joke
+		
+	}
+
+	}
+}
+//Mina comment
+}
+//Mina comment
+
+//mina is testing 
+
 	 System.out.println("the color of the season: " + color);
 	 
 	
@@ -98,6 +222,7 @@ public class ADemo {
 
 	}
 }
+
 
 
 
