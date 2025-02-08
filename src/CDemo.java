@@ -19,19 +19,23 @@ public class CDemo {
 		String school = "USF";
 		System.out.println(school);
 
-	
+		 a = 3;
+		int d = 2;
+			int j = 4;
+
+			
+			String name = "Abdullah";
+			
+			int f = 9;
+
+		System.out.println("create a conflict");
+
 	}
-int a = 3;
-int d = 2;
-	int j = 4;
+		public void add() {
+			System.out.println(1 + 2);
 
-	
-	String name = "Abdullah";
-	
-	int f = 9;
+			
+		
+	}
 
-System.outprintln("create a conflict");
-
-public void add() {
-	System.out.println(1 + 2);
 }
