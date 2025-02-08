@@ -169,7 +169,7 @@ System.out.println("The sum is: " + (a+b));
 
 
    // print("Hello, World!" -Abdullah
-	
+	int b = 15;
 
 	//new method by sally
 	public static void getColor(String color) {
