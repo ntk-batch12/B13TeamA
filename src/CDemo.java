@@ -1,24 +1,24 @@
 import java.util.Scanner;
 
 public class CDemo {
-	
-	
-	public static void main (String args[]) {
-		
+
+	public static void main(String args[]) {
+
+		String country = "USA";
+		System.out.println(country);
+
 		// For Loop - Time Table
-	
+
 		Scanner sc = new Scanner(System.in);
-		
+
 		// Ask the user to Enter a Number
 		System.out.println("Please Enter a Number: ");
 		int m = sc.nextInt();
-		
+
 		// For Loop
 		for (int i = 1; i <= 10; i++) {
 			System.out.println(m + " X " + i + " = " + m * i);
 		}
-		
-		
 
 		int a = 15;
 		int b = 20;
@@ -45,7 +45,6 @@ public class CDemo {
 	public void add() {
 		System.out.println(1 + 2);
 
-		
 	}
 
 }
