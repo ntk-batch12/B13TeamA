@@ -8,4 +8,5 @@ public class CDemo {
 		int b= 20;
 	}
 
+	Strin name = "Abdullah";
 }
