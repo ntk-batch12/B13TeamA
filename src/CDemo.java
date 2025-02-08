@@ -19,6 +19,8 @@ int d = 2;
 	 
 	 char gendar = 'M';
 	 System.out.println(b);
+	 
+	 // no its not working FYI.
 }
 
 
