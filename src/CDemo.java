@@ -32,5 +32,6 @@ int d = 2;
 
 System.outprintln("create a conflict");
 
-
+public void add() {
+	System.out.println(1 + 2);
 }
