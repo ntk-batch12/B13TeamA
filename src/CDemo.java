@@ -6,10 +6,13 @@ public class CDemo {
 		
 		int a = 15;
 		int b= 20;
+
 		int c = 30;
 		System.out.println(c);
 		String school = "USF";
 		System.out.println(school);
+
+	
 	}
 int a = 3;
 int d = 2;
