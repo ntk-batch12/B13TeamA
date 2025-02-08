@@ -7,7 +7,8 @@ public class CDemo {
 		int a = 15;
 		int b= 20;
 	}
-
+int a = 3;
+int d = 2;
 	String name = "Abdullah";
 	int c = 30;
 }
