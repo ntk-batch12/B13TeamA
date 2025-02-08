@@ -37,7 +37,7 @@ public class CDemo {
 		String name = "Abdullah";
 
 		int f = 9;
-
+//“Hey team, it looks like there’s a merge conflict in this ”
 		System.out.println("create a conflict");
 
 	}
