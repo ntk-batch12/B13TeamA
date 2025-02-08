@@ -3,17 +3,14 @@ public class CDemo {
 	
 	
 	public static void main (String args[]) {
+
+		String country = "USA";
+		System.out.println(country);
 		
 		int a = 15;
 		int b= 20;
 
-		
 		String team = "Team1";
-		
-		
-
-
-
 		int c = 30;
 		System.out.println(c);
 		String school = "USF";
@@ -34,8 +31,6 @@ public class CDemo {
 		public void add() {
 			System.out.println(1 + 2);
 
-			
-		
 	}
 
 }
