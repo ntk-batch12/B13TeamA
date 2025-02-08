@@ -18,7 +18,7 @@ int d = 2;
 	 String lastNAme = "Habib";
 	 
 	 char gendar = 'M';
-	 
+	 System.out.println(b);
 }
 
 
