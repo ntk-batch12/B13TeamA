@@ -10,4 +10,11 @@ public class CDemo {
 
 	String name = "Abdullah";
 	int c = 30;
+	
+	 String lastNAme = "Habib";
+	 
+	 char gendar = 'M';
+	 
 }
+
+
