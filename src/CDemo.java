@@ -6,6 +6,8 @@ public class CDemo {
 		
 		int a = 15;
 		int b= 20;
+		String city = "Tampa";
+		System.out.println(city);
 	}
 int a = 3;
 int d = 2;
