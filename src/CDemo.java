@@ -9,4 +9,5 @@ public class CDemo {
 	}
 
 	Strin name = "Abdullah";
+	int c = 30;
 }
