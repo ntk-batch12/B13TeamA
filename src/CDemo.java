@@ -6,10 +6,14 @@ public class CDemo {
 		
 		int a = 15;
 		int b= 20;
+
 		
 		String team = "Team1";
 		
 		
+
+
+
 		int c = 30;
 		System.out.println(c);
 		String school = "USF";
@@ -26,7 +30,7 @@ int d = 2;
 	
 	int f = 9;
 
-
+System.outprintln("create a conflict");
 
 
 }
