@@ -15,4 +15,8 @@ int d = 2;
 	String name = "Abdullah";
 	int c = 30;
 	int f = 9;
+
+	System.out.println(C);
+
+
 }
