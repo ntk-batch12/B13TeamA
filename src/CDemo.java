@@ -47,4 +47,7 @@ public class CDemo {
 
 	}
 
+	public void divide() {
+		System.out.println(10/5)
+	)
 }
